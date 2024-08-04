@@ -1,0 +1,24 @@
+.wrap {
+  border-radius: 4px;
+  width: 100%;
+  padding: 14px 20px;
+  white-space: normal;
+  overflow-wrap: break-word;
+  word-break: break-word;
+  box-sizing: border-box;
+  height: 100%;
+  background-color: #232323;
+}
+
+.title {
+  font-size: 16px;
+  line-height: 100%;
+  color: white;
+}
+
+.sub {
+  height: 20%;
+  font-size: 14px;
+  width: 100%;
+  color: rgb(179, 179, 179);
+}

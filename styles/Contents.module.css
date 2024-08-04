@@ -1,0 +1,14 @@
+.wrap {
+  width: 100%;
+  margin-bottom: 40px;
+  flex-direction: column;
+}
+
+.contents {
+  margin-top: 20px;
+  width: 90%;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
