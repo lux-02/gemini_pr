@@ -1,5 +1,8 @@
 # Gemini를 활용한 네이버 메일 스팸 분석 서비스
 
+Vercel 배포 링크 :
+https://gemini-pr-lux02s-projects.vercel.app/
+
 ## 서비스 소개
 
 ![Main](./img/0.png)
